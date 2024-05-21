@@ -1,0 +1,17 @@
+node -v   <---to see if exist--->
+npm -v    <---to see if exist--->
+npx -v    <---to see if exist--->
+npm install --global gulp-cli
+gulp -v
+npm init
+npm i --save-dev bootstrap sass
+npm run compilar:sass
+
+<now it ready to use>
+
+
+
+
+                                                  
+
+
